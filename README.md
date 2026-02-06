@@ -44,12 +44,6 @@ Before feeding data into the CNN, we apply denoising and spatial transformations
 ![Spatial Filtering](3a24f627-2caa-4d22-8943-e5ff544565e3.png)
 *Figure 2: Raw Wafer Data vs. Denoised Spatial Features.*
 
-### **3. Model Performance**
-Our models are optimized for high sensitivity to catch even the smallest "Scratch" or "Area" defects that could compromise an entire batch of chips.
-
-![Confusion Matrix](path/to/your/confusion_matrix.png)
-*Figure 3: Multi-class Confusion Matrix showing classification accuracy across all 9 categories.*
-
 ---
 
 ## 🛠 Tech Stack
