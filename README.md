@@ -105,7 +105,7 @@ This project is licensed under the GNU GPL 2.0 License and a PROPRIETARY LICENSE
 UI:
 ![Screen Shot 2024-10-05 at 5 41 22 AM](https://github.com/user-attachments/assets/dc3dfc83-f03f-4351-9d81-c526cb4b80fb)
 
-![Screen Shot 2024-10-05 at 6 31 41 AM](https://github.com/user-attachments/assets/daa11760-815a-4bc0-94f1-d096c22a9259)
+
 
 The **data analysis** and **AI model training** files are included in the repository as **Colab notebooks**. Due to interruptions while pushing the current branch, particularly involving the integration of the **Intel oneAPI key (private key)**, the latest version with those changes is pending.
 
