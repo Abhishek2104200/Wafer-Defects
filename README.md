@@ -35,13 +35,13 @@ These notebooks focus on reproducing state-of-the-art results from semiconductor
 ### **1. Wafer Map Pattern Identification**
 We process raw sensor data into visual wafer maps. Below is the visualization of the common defect categories identified by the model:
 
-![Wafer Map Patterns](path/to/your/wafer_patterns_image.png)
+![Wafer Map Patterns](5dbd5179-ac02-41d3-9a98-b83296ff2b5b.png)
 *Figure 1: Examples of Center, Donut, Edge-Loc, and Random defect patterns.*
 
 ### **2. Feature Transformation**
 Before feeding data into the CNN, we apply denoising and spatial transformations to ensure the model focuses on relevant defect geometry rather than background noise.
 
-![Spatial Filtering](path/to/your/filtering_image.png)
+![Spatial Filtering](3a24f627-2caa-4d22-8943-e5ff544565e3.png)
 *Figure 2: Raw Wafer Data vs. Denoised Spatial Features.*
 
 ### **3. Model Performance**
